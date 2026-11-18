@@ -1,6 +1,6 @@
 ---
 title: "AT32F435 - Black Panther"
-github: ""
+github: "https://github.com/poojithas956/AT32F435-Black-Panther"
 description: "A custom AT32F435 BareBone Board with all required pins exposed."
 created_at: "2026-11-16"
 total_time: "8h 24m"
